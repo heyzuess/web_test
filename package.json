@@ -1,0 +1,12 @@
+{
+  "name": "web_test",
+  "version": "1.0.0",
+  "description": "Web Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodejs index.js"
+  },
+  "author": "jesse_iberri",
+  "license": "ISC"
+}
